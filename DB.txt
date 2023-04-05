@@ -1,0 +1,8 @@
+create database :  parking_project
+Table Name :vehicle_info
+Columns:
+owner_name
+vehicle_name
+vehicle_number
+entry_date
+exit_date
